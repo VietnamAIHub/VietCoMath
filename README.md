@@ -28,7 +28,7 @@ This project aims to develop a Education Assistant.
 **Coming Version** (Đang Training) Được Ước Tính **40.000 H100 GPUs** Hours (Xử Lý, Chuẩn Bị Dữ Liệu & Model Training Model (8B, 70B, 27B)
   
 ## News: 
-+ [2024.11] VietCoMath Preview Instruct 8B (Based LLama 3 Model) [Download Model]([https://huggingface.co/collections/VietnamAIHub/vietcomath-o1-6751ab2514bae121c806309f])🔥
++ [2024.11] VietCoMath Preview Instruct 8B (Based LLama 3 Model) [Download Model](https://huggingface.co/collections/VietnamAIHub/vietcomath-o1-6751ab2514bae121c806309f)🔥
 + [Soon] VietCoMath Instruct 8B (Based LLama 3 Model-- RLAIF) [Download Model](SOON)🔥
 + [soon] VietCoMath Instruct 14B (Based Qwen25  Model-- RLAIF) [Download Model](SOON)🔥
 + [soon] VietCoMath Instruct 32B (Based Qwen25  Model-- RLAIF) [Download Model](SOON)🔥
