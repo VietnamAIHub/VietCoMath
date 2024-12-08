@@ -31,8 +31,8 @@ This project aims to develop a Education Tutor Assistant.
 + [2024.11] VietCoMath Preview Instruct 8B (Based LLama 3) [Download Model](https://huggingface.co/collections/VietnamAIHub/vietcomath-o1-6751ab2514bae121c806309f)🔥
 + [2024.11] VietCoMath Preview Instruct 8B (Based LLama 3.1) [Download Model]Uploading
 
-+ [Soon] VietCoMath Instruct 8B (Based LLama 3 Model-- RLAIF) [Download Model](SOON)🔥
-+ [soon] VietCoMath Instruct 14B (Based Qwen25  Model-- RLAIF) [Download Model](SOON)🔥
++ [Soon] VietCoMath Instruct 8B (Based LLama 3 Model-- RLAIF) [Coming soon]
++ [soon] VietCoMath Instruct 14B (Based Qwen25  Model-- RLAIF) [Coming soon]
   
 + VietCoMath Instruct 32B (Based Qwen25  Model-- RLAIF) [Download Model](Contact Team)
 + [soon] VietCoMath Instruct 70B (Based LLama3.3  Model-- RLAIF) [Download Model](Contact Team)
