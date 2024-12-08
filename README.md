@@ -65,6 +65,22 @@ This project aims to develop a Education Tutor Assistant.
 
 ### English Focus Benchmark 
 
+## 
+
+| Category | Benchmark | \# Shots | Metric | 
+| :---- | :---- | ----- | :---- |
+| General | MMLU (CoT) | 0 | macro\_avg/acc |
+|  | MMLU Pro (CoT) | 5 | macro\_avg/acc | 
+| Steerability | IFEval |  |  |
+| Reasoning | GPQA Diamond (CoT) | 0 | acc | 
+| Code | HumanEval | 0 | pass@1 |
+|  | MBPP EvalPlus (base) | 0 | pass@1 | 
+| Math | MATH (CoT) | 0 | sympy\_intersection\_score |
+| Tool Use | BFCL v2 | 0 | overall\_ast\_summary/macro\_avg/valid | 
+| Multilingual | MGSM | 0 | em | 
+## 
+
+
 
 ## Tài Trợ & Hợp Tác (Dữ Liệu & Model Training):
   - Bạn có thể kết nối trực tiếp với Trần Nhiệm [rick.tvn@foxconn.com]().
