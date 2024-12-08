@@ -22,10 +22,10 @@ This project aims to develop a Education Tutor Assistant.
 ## 🚨 VietCoMath-O1 Small(8B-Version) Demo: 🚨
 + [**VietCoMath SFT Version 2024-11**](http://140.115.53.106:8887/)
 
-## 🚨 VietCoMath-O1 Medium (32-Version) Demo: 🚨
+## 🚨 VietCoMath-O1 Medium (32B-Version) Demo: 🚨
 + [**VietCoMath SFT Version 2024-11**](http://140.115.53.106:7777/)
 
-**Version 8B-Small 2024-11** (Model Based LLama3 8B, Training using A100 GPU)
+**Version 8B-Small 2024-11** (Model Based LLama3 &  LLama3.1 8B, Training using A100 GPU)
 **Version 32B-Medium 2024-11** (Model Based Qwen25 32B, Training using H100 GPU)
 
 **Coming Version** (In Progress Training)  (14B, 70B)
