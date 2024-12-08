@@ -10,9 +10,6 @@ VietCoMath is Education AI Assistant Focus on Math Coding and General Multitask
 This project aims to develop a Education Tutor Assistant.
 ## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/ygkgPNSx)
 
-<h3 align="center">
-  <span> VietCoMath - Target Developments </span>
-</h3>
 
 <div align="center">
      <img width="auto" height="600px" src="./VietComath_logo.png"/>
@@ -43,6 +40,13 @@ This project aims to develop a Education Tutor Assistant.
 
 ## 1. Roadmap Development of VietCoMath: 
 
+<h3 align="center">
+  <span> VietCoMath 01 - Target Developments </span>
+</h3>
+
+<div align="center">
+     <img width="auto" height="500px" src="./VietCoMath_Roadmap.png"/>
+</div>
 
 ## Important Benchmarks on Multiple Task (Math-Coding) -- Các Bộ Dữ Liệu Đánh Giá Quan Trọng: 
 
