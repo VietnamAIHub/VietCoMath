@@ -48,11 +48,22 @@ This project aims to develop a Education Tutor Assistant.
      <img width="auto" height="500px" src="./VietCoMath_Roadmap.png"/>
 </div>
 
-## Important Benchmarks on Multiple Task (Math-Coding) -- Các Bộ Dữ Liệu Đánh Giá Quan Trọng: 
+## Important Benchmarks on Task Specific (Math-Coding) & General Multitask-- Các Đánh Giá Quan Trọng: 
 
-+ Comprehensive and Advanced Vietnamese Benchmark for STEM Categories
++ Current Testing Comprehensive and Advanced English -- Vietnamese -- ChineBenchmark for STEM Categories
   
+### Vietnamese Focus Benchmark 
 
+| Benchmark Category                     | Benchmark Task Description                       | Metric     | Number of Samples |
+|----------------------------------------|--------------------------------------------------|------------|-------------------|
+| **<span style="font-size:13px">General Knowledge</span>**                  |                                                  |            |                   |
+| <span style="font-size:11px">Vietnamese Exam (From grade 6->12 & High School)</span> | <span style="font-size:11px">Comprehensive evaluation of multiple-choice questions for various subjects (Math, Physics, Chemistry, English, Biology, etc.) based on exam sets in Vietnam from grade 6 to grade 12 and including the national high school graduation exam</span> | Prefix Match (Accuracy) | 33,000 |
+| **<span style="font-size:13px">Math Knowledge</span>**                  |                                                  |            |                   |
+| <span style="font-size:11px">Vietnamese Math Exam (From grade 6->12 & High School)</span> | <span style="font-size:11px">Extracting the multiple-choice questions for Math subjects (Math Only) based on exam sets in Vietnam from grade 6 to grade 12 and including the national high school graduation exam</span> | Prefix Match (Accuracy) | 5000/33,000|
+| **<span style="font-size:13px">General Knowledge</span>**                  |                                                  |            |                   |
+| <span style="font-size:11px">VMLU Vietnamese Multitask Language Understanding</span> | <span style="font-size:11px">Evaluation based on multiple-choice questions covering 58 different topics, distributed across four main areas: STEM, Humanities, Social Sciences, and more. It encompasses various difficulty levels, from basic to advanced specialized knowledge, challenging models in both general knowledge and complex problem-solving.</span> | Prefix Match (Accuracy) | 10,880 |
+
+### English Focus Benchmark 
 
 
 ## Tài Trợ & Hợp Tác (Dữ Liệu & Model Training):
