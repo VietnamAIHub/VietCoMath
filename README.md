@@ -77,7 +77,7 @@ This project aims to develop a Education Tutor Assistant.
 |  | MBPP EvalPlus (base) | 0 | pass@1 | 
 | Math | MATH (CoT) | 0 | sympy\_intersection\_score |
 | Tool Use | BFCL v2 | 0 | overall\_ast\_summary/macro\_avg/valid | 
-| Multilingual | MGSM | 0 | em | 
+| Multilingual (English-Vietnamese-Chinese) | MGSM | 0 | em | 
 ## 
 
 
