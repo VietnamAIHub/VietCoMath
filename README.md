@@ -4,7 +4,7 @@ VietCoMath is Education AI Assistant Focus on Math Coding and General Multitask
 
 
 <h1 align="center">
-  <span> VietCoMath: is An AI Education Assistant Specializing in Coding, Math, and General Multitasks-- Series Model Focus Dynamic Reasoning Thinking & AI-Human Interaction</span>
+  <span> VietCoMath: Specializing on Education AI (Coding, Math, and General Multitasks) -- Series Model Focus Dynamic Reasoning Thinking & AI-Human Interaction</span>
 </h1>
 
 This project aims to develop a Education Tutor Assistant.
